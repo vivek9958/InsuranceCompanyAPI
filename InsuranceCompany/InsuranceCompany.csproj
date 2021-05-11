@@ -97,6 +97,7 @@
     </Compile>
     <Compile Include="Models\Client.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\CalculationService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
